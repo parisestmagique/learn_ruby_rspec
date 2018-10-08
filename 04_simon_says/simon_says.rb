@@ -21,9 +21,6 @@ def first_word(lettre)
   lettre.split(" ")[0]
 end
 
+#Je n'ai pas reussi a faire le reste 
 
 
-
-def little_word?(lettre)
-  ["and", "or", "of", "in", "a", "the"].include?(lettre)
-end
